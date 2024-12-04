@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 my changes only there from \Vaibhav\myappsample
-=======
-this is my text from \Vaibhav\New folder\myappsample
->>>>>>> 7abaa512d6d66d3cbbb848e1067ff8af9add0ef3
